@@ -31,3 +31,13 @@ span {
     color: grey;
     margin-bottom: 20px;
 }
+
+article {
+    margin-top: 30px;
+    font-size: 18px;
+    width: 80%;
+}
+
+#list {
+    padding: 10px;
+}
