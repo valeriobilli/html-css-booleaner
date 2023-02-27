@@ -1,13 +1,33 @@
 .pattern {
     background-image: url(../img/pattern.png);
     background-color: cornflowerblue;
-    height: 170px;
-    position: relative;
+    height: 130px;
+    position: relative; 
+    margin: 0; 
 }
 
 #logo {
-   height: 40%;
+   height: 50%;
    position: absolute;
    bottom: 10Px;
    left: 10px
+}
+
+h1 {
+    font-size: 40px;
+    margin-bottom: 0;
+}
+
+span {
+    font-size: 20px;
+    color: grey;
+}
+
+#name {
+    color: cornflowerblue;
+}
+
+#date {
+    color: grey;
+    margin-bottom: 20px;
 }
