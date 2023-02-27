@@ -45,6 +45,26 @@ article {
 
 table {
     width: 80%;
+    text-align: left;
+    font-size: 18px;
+    border-collapse: collapse;
+}
+
+.thead {
+    color: white;
+    background-color: cornflowerblue;
+}
+
+td {
+    width: 40px;
+}
+
+tr {
+    background-color:lightblue ;
+}
+
+.white {
+    background-color: white;
 }
 
 .suggested {
