@@ -1,0 +1,13 @@
+.pattern {
+    background-image: url(../img/pattern.png);
+    background-color: cornflowerblue;
+    height: 170px;
+    position: relative;
+}
+
+#logo {
+   height: 40%;
+   position: absolute;
+   bottom: 10Px;
+   left: 10px
+}
