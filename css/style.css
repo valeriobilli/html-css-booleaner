@@ -41,3 +41,7 @@ article {
 #list {
     padding: 10px;
 }
+
+table {
+    width: 80%;
+}
